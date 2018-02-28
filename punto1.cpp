@@ -3,10 +3,10 @@
 int main() {
   unsigned t0, t1;
 
-  //como ejemplo se usa una matriz 5x5
+  //para las pruebas se usan matrices desde 2x2 hasta 9x9
 
 
- // int n=2;
+ 
   for(int n=2; n<10; n++){
       t0=clock();
   //int n=5;
