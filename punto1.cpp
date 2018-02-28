@@ -1,5 +1,6 @@
 #include <iostream>
 #include <ctime>
+//PUNTOS A,B
 int main() {
   unsigned t0, t1;
 
@@ -36,5 +37,6 @@ int main() {
   }
   }
 }
-
+//PUNTO C
+//la complejidad es O(n^2) ya que se manejan dos ciclos for para recorrer la matriz
  
