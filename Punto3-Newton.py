@@ -35,7 +35,7 @@ def newtonRaphson( x ):
 #se utiliza x0=-1.5 en vez de x0=1 como lo dice el enunciado
 #esto porque 1 no es una valor valido para el metodo, 
 #pues no se encuentra dentro del intervalo de la interseccion
-#un intervalo valido sería [-2,-1]
+#un intervalo valido sería [-1.7,-1.4]
  
 x0 = -1.5
 newtonRaphson(x0)
