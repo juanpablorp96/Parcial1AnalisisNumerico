@@ -1,7 +1,7 @@
 # Funcion ln(x+2) - sin(x) = 0
 
 import numpy
-from matplotlib import pyplot
+
 def func( x ):
     return numpy.log(x+2) - numpy.sin(x)
 
