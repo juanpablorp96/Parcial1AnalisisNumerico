@@ -1,0 +1,3 @@
+Se grafican los datos de los ciclos que realiza el algoritmo desde n=2 hasta n=100
+en la grafica se puede ver como es el comportamiento del algotimo para cualquier valor que tome n
+dara una grafica de n^2
